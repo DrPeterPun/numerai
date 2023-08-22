@@ -1,0 +1,35 @@
+# Exclude Python virtual environments
+venv/
+env/
+.venv/
+.venv3/
+__pycache__/
+bin
+lib
+lib64
+
+# Exclude pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Exclude poetry virtual environment
+poetry.lock
+__pypackages__/
+
+# Exclude IDE-specific files
+.vscode/
+.idea/
+
+# Exclude miscellaneous files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.swp
+.DS_Store
+Thumbs.db
+
+# datasets
+
+v4.1
