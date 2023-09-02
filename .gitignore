@@ -33,3 +33,6 @@ Thumbs.db
 # datasets
 
 v4.1
+
+# models
+*.model
