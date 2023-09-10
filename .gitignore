@@ -31,8 +31,8 @@ __pypackages__/
 Thumbs.db
 
 # datasets
-
-v4.1
-
+v4.*/
 # models
 *.model
+*.pkl
+*.cfg
